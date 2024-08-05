@@ -52,6 +52,12 @@ Make sure you have the following software and libraries installed:
 - Python 3.x
 - Required Python packages (listed in `requirements.txt`)
 
+Additionally, download the dataset and model weights:
+
+- Download the dataset from [this link](https://drive.google.com/drive/folders/1VkKwxuK8DOx7EsH9ZD5z_-nThg8BMyFE).
+- Download the file `best.pt`, rename it to `yolov5_vehicle_oriented.pt`, and place it in the `yolo` directory.
+
+
 ### Installation Steps
 
 1. Clone the repository:
