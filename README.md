@@ -36,14 +36,15 @@ Il progetto utilizza le seguenti librerie:
 
 ## Images
 
-<img src="./img/image1.png" alt="Descrizione dell'immagine" width="500"/>
-Immagine di esempio su uno scenario di guida
+<img src="./img/image1.png" alt="Image description" width="500"/>
+Example image of a driving scenario
 
-<img src="./img/image2.png" alt="Descrizione dell'immagine" width="500"/>
-Seconda immagine di esempio su uno scenario di guida
+<img src="./img/image2.png" alt="Image description" width="500"/>
+Second example image of a driving scenario
 
-<img src="./img/gui.png" alt="Descrizione dell'immagine" width="400"/>
-Gui utente
+<img src="./img/gui.png" alt="Image description" width="400"/>
+User GUI
+
 
 ### Prerequisites
 
