@@ -34,6 +34,17 @@ Il progetto utilizza le seguenti librerie:
 - `numpy`
 
 
+## Images
+
+<img src="./img/image1.png" alt="Descrizione dell'immagine" width="500"/>
+Immagine di esempio su uno scenario di guida
+
+<img src="./img/image2.png" alt="Descrizione dell'immagine" width="500"/>
+Seconda immagine di esempio su uno scenario di guida
+
+<img src="./img/gui.png" alt="Descrizione dell'immagine" width="400"/>
+Gui utente
+
 ### Prerequisites
 
 Make sure you have the following software and libraries installed:
