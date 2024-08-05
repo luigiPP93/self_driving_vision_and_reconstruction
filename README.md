@@ -23,7 +23,7 @@ You can view the data set used for recognizing the orientation of vehicles on. [
 
 ## Libraries
 
-Il progetto utilizza le seguenti librerie:
+The project uses the following libraries:
 
 - `PyTorch `
 - `ultralytics` per YOLO
