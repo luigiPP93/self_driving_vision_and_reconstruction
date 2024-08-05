@@ -2,7 +2,7 @@
 
 ## Description
 
-The project consists of two main innovations: a lane detection system capable of analyzing and accurately recognizing road elements and curves, and a function for monitoring moving vehicles, including trucks, cars, and motorcycles. Through this combination, it was possible to define a precise representation of the road environment.
+The project consists of two main innovations: a lane detection system capable of analyzing and accurately recognizing road elements and curves, and a function for monitoring moving vehicles, including trucks, cars, and motorcycles. Through this combination, it is possible to define a precise representation of the road environment.
 
 A distinctive element of the project is the introduction of a user interface that allows drivers to report anomalies, contributing to the continuous improvement of the system thanks to real feedback.
 
