@@ -74,6 +74,9 @@ Additionally, download the dataset and model weights:
    ```bash
    python final_result.py
    ```
+
+An advanced system for 3D environment reconstruction for autonomous driving, similar to Tesla Vision.
+
 ### License
 ```text
 Copyright 2024 LuigiPP
