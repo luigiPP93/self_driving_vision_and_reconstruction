@@ -26,7 +26,7 @@ You can view the data set used for recognizing the orientation of vehicles on. [
 The project uses the following libraries:
 
 - `PyTorch `
-- `ultralytics` per YOLO
+- `ultralytics` used for YOLO (car detection with [DataSet](https://github.com/sekilab/VehicleOrientationDataset))
 - `tkinter`
 - `codecarbon`
 - `matplotlib`
@@ -76,6 +76,15 @@ Additionally, download the dataset and model weights:
    ```
 
 An advanced system for 3D environment reconstruction for autonomous driving, similar to Tesla Vision.
+
+## Lane detection algorithm
+
+The lane detection algorithm has as its starting point from the [Advanced Lane Detection for Self-Driving Cars](https://github.com/maunesh/advanced-lane-detection-for-self-driving-cars) GitHub repository. The original project provided a foundational approach for lane detection, which I have since enhanced in several ways:
+
+- **Black Mask for Perspective Enhancement**: Implemented a black mask to highlight only the perspective view of the lane, reducing the influence of noise from external areas.
+- **HLS Color Filtering**: Applied HLS (Hue, Lightness, Saturation) color filtering to emphasize yellow and white colors, improving lane visibility and detection accuracy.
+- **Improved System Performance**: Enhanced the system's fluidity and precision, resulting in smoother and more accurate lane detection.
+
 
 ### License
 ```text
