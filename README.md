@@ -43,7 +43,7 @@ Example image of a driving scenario
 Second example image of a driving scenario
 
 <img src="./img/gui.png" alt="Image description" width="400"/>
-User GUI
+The GUI interface allows users to report issues by providing text input and simultaneously save the current video frame. This enables users to capture and document the exact moment an issue occurs, which can then be sent to the automotive manufacturer for further examination. 
 
 
 ### Prerequisites
